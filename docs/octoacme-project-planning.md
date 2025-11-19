@@ -3,6 +3,8 @@
 ## Purpose
 Turn an approved initiative into an actionable plan and backlog for delivery.
 
+> **Note**: For detailed role definitions and responsibilities during planning, see [OctoAcme Roles and Personas](octoacme-roles-and-personas.md).
+
 ## Objectives
 - Break work into shippable increments
 - Identify dependencies and risks
