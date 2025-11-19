@@ -3,6 +3,8 @@
 ## Purpose
 Guidance for managing day-to-day execution and tracking progress toward project milestones.
 
+> **Note**: For detailed role definitions and responsibilities during execution, see [OctoAcme Roles and Personas](octoacme-roles-and-personas.md). For release-specific steps, see [OctoAcme Release Checklist](octoacme-release-checklist.md).
+
 ## Team Rhythm
 - Daily standups (15 min) — focus on progress, blockers, dependencies
 - Weekly delivery sync — show progress, updates, and flagged risks
